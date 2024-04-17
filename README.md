@@ -1,4 +1,4 @@
-![Altent Logo Marca](assets\\LogoAltent.png)
+![Altent Logo Marca](assets\LogoAltent.png)
 #
 ##### **Transforme Dados em Resultados Tangíveis com nossa consultoria em dados**
 #
@@ -23,10 +23,7 @@ Esse projeto prevé a criação de duas telas em especifico **DataViz** e **Anal
 
 ### 🏆Resultados
 
-<iframe
-  src="Slide.html"
-  style="width:100%; height:400px;"
-></iframe>
+<iframe src="Slide.html" style="width:100%; height:400px;"></iframe>
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558196051648)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sauloemp_/)
